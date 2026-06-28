@@ -1,10 +1,10 @@
 # ComandX — Sistema de Gestão para Restaurante
 
-Sistema desktop para gestão de restaurantes, desenvolvido como projeto final da disciplina de Engenharia de Software (UFOP). Cobre controle de acesso, gestão de salão (mesas), comandas e cardápio digital, com arquitetura orientada a serviços e cobertura de testes.
+Sistema desktop para gestão de restaurantes, desenvolvido como projeto final da disciplina de Engenharia de Software I. Cobre controle de acesso, gestão de salão (mesas), comandas e cardápio digital, com arquitetura orientada a serviços e cobertura de testes.
 
 ## Contexto
 
-O projeto foi construído em sprints incrementais (metodologia ágil — Scrum/Kanban), com levantamento de requisitos, modelagem, implementação e **validação junto ao cliente** a cada entrega. Este repositório representa a versão final do sistema.
+O projeto foi construído em sprints incrementais (metodologia ágil — Scrum/Kanban), com levantamento de requisitos, modelagem, implementação e **validação junto ao cliente** a cada entrega. Este repositório representa a versão final do sistema (não foi totalmente implementada).
 
 ## Arquitetura
 
