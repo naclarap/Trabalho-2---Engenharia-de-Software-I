@@ -1,0 +1,23 @@
+# Qt / build artifacts
+build/
+build-*/
+*.pro.user
+*.pro.user.*
+Makefile*
+*.o
+*.obj
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+*.app
+*.exe
+
+# Docs gerados (Doxygen)
+docs/html/
+docs/latex/
+
+# OS / editor
+.DS_Store
+.vscode/
+__MACOSX/
